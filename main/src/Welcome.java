@@ -1,13 +1,10 @@
 
 public class Welcome {
     public static void main(String[] args) {
+        System.out.println("Commit1");
+        System.out.println("Commit2");
+        System.out.println("Commit3");
 
-        int a;
-        System.out.println("2020");
-        System.out.println("Moldova");
-        System.out.println("Have a nice day");
-        System.out.println("Have a nice day");
-                          
     }
 
 }
